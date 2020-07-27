@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "消息列表",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "msg-list": "/components/msg/msg-list",
+    "no-thing": "/components/common/no-thing",
+    "uni-popup": "/components/uni-ui/uni-popup/uni-popup"
+  }
+}

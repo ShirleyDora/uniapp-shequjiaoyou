@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "topic-info": "/components/topic-detail/topic-info",
+    "common-list": "/components/common/common-list",
+    "no-thing": "/components/common/no-thing",
+    "load-more": "/components/common/load-more"
+  }
+}
